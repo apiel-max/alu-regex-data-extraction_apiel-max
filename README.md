@@ -1,6 +1,24 @@
-# alu-regex-data-extraction_apiel-max
+## alu-regex-data-extraction_apiel-max
 
-A Python regex-based data extraction and validation system that processes raw, untrusted text and extracts four data types: **emails**, **credit card numbers**, **URLs**, and **phone numbers**.
+## What This Project Is About
+
+This project was built as part of a Junior Frontend Developer assignment at ALU. The scenario is simple: imagine you've just graduated and you're working with a system that receives large volumes of raw text from an external API. That text contains all kinds of useful data — emails, phone numbers, URLs, credit card numbers — but it's messy, inconsistent, and most importantly, you can't trust it. Anyone could have put anything in there.
+
+The goal was to write a Python program that can dig through that messy text, pull out the data you actually care about, validate that it's properly formed, and do all of this safely — without letting bad input cause problems downstream.
+
+---
+
+## What the Program Does
+
+The program reads a raw text file (`input/raw-text.txt`), scans it using regular expressions, and extracts four types of data:
+
+- **Email addresses** — including special handling for ALU staff, alumni, and SI emails
+- **Credit card numbers** — validated using the Luhn checksum algorithm
+- **URLs** — only safe, properly formed web addresses are accepted
+- **Phone numbers** — international and local formats from multiple countries
+
+Once extraction is done, the results are written to `output/sample-output.json` as a clean, structured report. A summary is also printed to the console.
+
 
 ---
 
