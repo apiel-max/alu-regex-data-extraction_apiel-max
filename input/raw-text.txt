@@ -1,0 +1,126 @@
+============================================================
+  Customer Support Export — Q1 2026 (raw API dump)
+  Source: /api/v3/tickets?status=closed&exported=true
+  WARNING: contents are user-generated. Treat as untrusted.
+============================================================
+
+[TICKET #48211]  opened 2026-01-14 09:12 UTC
+From: "Aline U." <aline.umutoni@alueducation.com>
+Cc:   facilities-team@alueducation.com, security@ALUEDUCATION.com
+Subject: Lab access card not working
+
+Hi team, my card stopped working again this morning. I tried both the
+main entrance and the side door near the cafeteria. Could someone from
+IT call me back? My number is +250 788 123 456 or you can also try
+(078) 8123456 (that's the alternate SIM I use on weekends).
+
+For urgent matters my supervisor is reachable at
+   prof.mukamana@alueducation.com   (please CC her)
+and the dean's office is dean@alueducation.com.
+
+— Aline
+PS: I tried to log in at https://portal.alueducation.com/account/login?ref=ticket
+    but it just redirects me to http://portal.alueducation.com (no https!?)
+
+
+[TICKET #48212]  opened 2026-01-14 10:03 UTC
+From: alumni-relations@alumni.alueducation.com
+Subject: Re: Donation receipt
+
+Dear Mr. Niyonsenga,
+
+Thank you for your contribution of $250.00 received on Jan 12. A formal
+receipt has been emailed to jean.niyonsenga@alumni.alueducation.com.
+For tax purposes please retain the transaction reference.
+
+You may track future giving at https://give.alueducation.com/me
+or our partner site https://www.classy.org/give/123456/donation/checkout
+
+Best regards,
+Alumni Office
++1 (415) 555-0142  ·  +44 20 7946 0991  ·  +250-788-555-014
+
+
+[TICKET #48213]  opened 2026-01-15 14:48 UTC
+From: support-bot@example.com
+Subject: [AUTOMATED] Payment retry needed
+
+Hello,
+We attempted to process your subscription renewal but the card on file
+was declined. Please update your card details.
+
+Test card on file (sandbox env only): 4111 1111 1111 1111
+
+Please update at: https://billing.example.com/update?token=abc.def-123
+or call us at 1-800-555-0199 between 9am-5pm EST.
+
+If you prefer, here is a backup contact form:
+    https://example.com/contact?subject=Billing&utm_source=email
+
+---
+This email was sent to user.billing@example.co.uk.  To unsubscribe,
+visit https://example.com/u/9f8a7b6c5d?confirm=yes
+---
+
+
+[TICKET #48214]  opened 2026-01-16 08:30 UTC
+From: "M. Habimana" <m.habimana@si.alueducation.com>
+Subject: SI session schedule conflict
+
+Hi all — quick note about the SI (Student Intervention) schedule:
+sessions previously at room B-204 will move to B-301 starting Monday.
+Affected students should email si-coord@si.alueducation.com to confirm.
+
+My phone is +250-789-000-111.
+
+
+[TICKET #48215]  opened 2026-01-17 23:55 UTC  ⚠ FLAGGED BY SCANNER
+From: "totally legit" <admin'; DROP TABLE users;--@evil.test>
+Subject: Re: Re: Re: URGENT — verify account
+
+Click here to verify: javascript:alert(document.cookie)
+or visit our secure portal at http://192.168.1.1/login.php
+Alternate: https://alu-education.com.phishing-domain.ru/login
+
+Your card 1234-5678-9012-3456 has been suspended (this is not a real
+card; Luhn-invalid). Reply with your full card number to reactivate.
+
+Contact us: not-an-email@@double-at.com, missing-tld@localhost,
+.startswithdot@example.com
+
+Phone: 123 (not a number), +999-000 (too short),
+       000-000-0000 (all zeros)
+
+
+[TICKET #48216]  opened 2026-01-18 11:22 UTC
+From: research@alueducation.com
+Subject: Grant proposal — collaboration
+
+Dear colleagues, please find below the contact information for
+the partner institutions:
+
+  • Dr. Mensah    — k.mensah@alumni.alueducation.com   — +233 24 123 4567
+  • Prof. Diallo  — f.diallo@alueducation.com          — +221 77 555 8899
+  • Ms. Okeke     — c.okeke@si.alueducation.com        — +234 803 555 1212
+
+Reference URL: https://arxiv.org/abs/2401.12345
+
+For travel reimbursement we accept Visa, Mastercard, and Amex.
+Sample test card (do NOT use in production): 5500 0000 0000 0004
+Amex test card: 3782 822463 10005
+
+Office line: (250) 788-303-303   ext. 4421
+Mobile:      +250.788.303.303
+
+
+[TICKET #48217]  opened 2026-01-19 16:01 UTC
+Mixed-format dump from imported CRM (formatting NOT normalized):
+
+   email1=p.kagame@alueducation.com
+   email2=p.kagame@ALUEducation.Com
+   url=https://portal.alueducation.com:8443/dashboard
+   phone=+250-788-303-303
+   cc_test=6011 1111 1111 1117
+
+End of dump.
+============================================================
